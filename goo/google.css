@@ -1,0 +1,122 @@
+           a{ text-decoration: none; }
+            *{background-color: black;}
+            p{margin: 0;}
+
+            .banner{
+                text-align: right;
+                font-size: 14px;
+            }
+
+            .banner a{
+                margin: 5px;
+            }
+            .banner input{
+               margin-left: 5px;
+               position: relative;
+               top: 7px;
+            }
+            
+            .logo{
+                text-align: center;
+                font-size: 100px;
+                margin-top: 100px;
+                margin-bottom: 40px;
+                color: blue;
+            }
+            .oe{
+                color: red;
+            }
+            .o{
+                color: yellow;
+            }
+            .l{
+                color: green;
+            }
+
+            .search{
+                margin-bottom: 50px;
+            }
+            
+            .box{   
+                border-radius: 20px;
+                background-color: white;
+                width: 564px;
+                height: 44px;
+                margin: auto;
+            }
+            
+            .icon2{
+                display: inline-block;
+                background-color: white;
+                width: 24px;
+                height: 20px;
+                position: relative;
+                top: 5px;
+                left: 10px;
+            }
+            
+            .searchbox{
+                display: inline-block;
+                background-color: white;
+                width: 461px;
+                height: 40px;
+                position: static;
+            }
+            .searchbox input{
+                background-color: white;
+                width: 461px;
+                height: 40px;
+                position: relative;
+                left: 20px;
+                border: 0px;
+                outline-style: none;
+                font-size: 16px;
+            }
+            
+            .icon3{
+                display: inline-block;
+                background-color: white;
+                width: 24px;
+                height: 30px;
+                position: relative;
+                top: 7px;
+                left: 30px;
+            }
+
+            .contents{
+                text-align: center;
+            }
+
+            .c1{
+                display: inline-block;
+                width: 112px;
+                height: 112px;
+            }
+
+            .c1 img{
+                display: block;
+                margin: auto;
+                border-radius: 50%;
+            }
+
+            .c1 p{
+                color: white;
+                text-align: center;
+            }
+
+            .c2{
+                display: inline-block;
+                width: 112px;
+                height: 112px;
+            }
+
+            .c2 img{
+                display: block;
+                margin: auto;
+                border-radius: 50%;
+            }
+
+            .c2 p{
+                color: white;
+                text-align: center;
+            }
